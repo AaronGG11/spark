@@ -17,16 +17,3 @@ def funcion(contenido: String) : String = {
 }
 
 print(funcion("Juana"))
-
-
-
-    val REGEX_1 = "[^0-9]"
-    val REGEX_2 = "[^A-Z^]"
-    val REGEX_3 = "[^a-z]"
-
-    var at1 = List("aaron","jose","pedro","arturo")
-    var at2 = List("maria","juana","fernanda")
-    var at3 = List("ariel")
-
-
-    print(at1.con)
